@@ -1,18 +1,12 @@
-# SmartOffice-WebApp
+# Employee Management System 
 <h3>Introduction</h3>
-This is a final project of my graduate course named ASP.NET Web Development II.<br>
-This web application is developed on Visual Studio 2017. ASP.NET and C# were used.<br>
-*Files are not the whole project. Only the main code for the web pages, front end and back end.
+This system provides a portal through which employees can apply for approvals, report to managers while managers can review,comment and make decisions on these reports. Employee issues such as paid time approval, overtime approvals, reimbursements and contract approvals are handled effectively. The system maintains employee attendance and availablity records which enable ease of operations. 
 
-<h3>Features</h3>
-1.A smart web workplace which gives one-stop solution on which employees can apply for approvals, report to managers, and managers can review and provide a decision or make comments.<br>
-2.The modules include “Paid Off Time Approval”, “Overtime Approval”, “Reimbursements Approval”, “Borrow Items Approval”, “Contract Approval”, and "Reports".<br>
-3.The system reduce the paperwork burden for the office management and provide a clear picture to management about employees’ availability and their routine progress.<br>
 
-<h3>Software Environment & Design Method</h3>
-1.Build database management system using MS SQL Server.<br>
+<h3>Technology and Frameworks</h3>
+1.database management system- MS SQL Server.<br>
 2..Net Framework 4.6.1<br>
-3.OOD is used throughout the project development.<br>
+3.Visual Studio - ASP.NET - C#<br>
 
 <h3>Technical Points</h3>
 1.Password Hash&Salt<br>
